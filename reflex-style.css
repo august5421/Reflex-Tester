@@ -107,15 +107,15 @@
 			
 				background-color: white;
 				margin:auto;
-				width:70%;
-				height:55%;
+				width:95%;
+				height:95%;
 				z-index:+1;
 				text-align:center;
 				border: 5px solid #46A19F;
 				font-weight: bold;
 				position:fixed;
-				bottom:12%;
-				right:15%;				
+				bottom:12;
+				right:15;				
 				display:none;
 				
 			}
@@ -124,15 +124,15 @@
 			
 				background-color: white;
 				margin:auto;
-				width:70%;
-				height:55%;
+				width:95%;
+				height:95%;
 				z-index:+1;
 				text-align:center;
 				border: 5px solid red;
 				font-weight: bold;
 				position:fixed;
-				bottom:12%;
-				right:15%;	
+				bottom:12;
+				right:15;	
 				display:none;
 				
 			}
