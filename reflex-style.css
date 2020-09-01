@@ -14,7 +14,7 @@
 				 text-decoration: none;
 				 display: inline-block;
 				 font-size: 18px;
-				 
+				
 				
 				
 			}
@@ -43,7 +43,7 @@
 				 text-decoration: none;
 				 display: inline-block;
 				 font-size: 18px;
-				 
+				
 				
 			}
 			
@@ -57,7 +57,7 @@
 				 text-decoration: none;
 				 display: inline-block;
 				 font-size: 18px;
-				 
+				
 				
 			}
 			
@@ -76,7 +76,8 @@
 				
 					margin:auto;
 					width:75%;
-					height:4%
+					height:10%;
+					padding-top:10px;
 			
 			}
 			
@@ -94,7 +95,7 @@
 			
 				 margin: auto;
 				 width: 74%;
-				 height: 70%;
+				 height: 60%;
 				 border: 3px solid black;
 				 padding: 10px;
 				 border:5px solid #46A19F;
