@@ -22,7 +22,7 @@
 						
 						var top = Math.random() * 35;
 						
-						var left = Math.random() * 45;
+						var left = Math.random() * 63;
 						
 						var width = (Math.random() * 200) + 100;
 						
