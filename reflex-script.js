@@ -20,7 +20,7 @@
 					
 					function makeShapeAppear() {
 						
-						var top = Math.random() * 400;
+						var top = Math.random() * 250;
 						
 						var left = Math.random() * 400;
 						
