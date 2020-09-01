@@ -20,9 +20,9 @@
 					
 					function makeShapeAppear() {
 						
-						var top = Math.random() * 225;
+						var top = Math.random() * 35;
 						
-						var left = Math.random() * 400;
+						var left = Math.random() * 45;
 						
 						var width = (Math.random() * 200) + 100;
 						
@@ -42,9 +42,9 @@
 						
 						document.getElementById("shape").style.height = width + "px";
 						
-						document.getElementById("shape").style.top = top + "px";
+						document.getElementById("shape").style.top = top + "%";
 						
-						document.getElementById("shape").style.left = left + "px";
+						document.getElementById("shape").style.left = left + "%";
 			
 						document.getElementById("shape").style.display = "block";
 						
